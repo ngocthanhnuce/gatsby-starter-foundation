@@ -1,31 +1,27 @@
 ---
 template: blog-post
-title: Character design
-slug: /character-design
-date: 2020-05-23 23:40
-description: How to draw a character
-featuredImage: /assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg
+title: Tin bóng đá
+slug: /news-football
+date: 2020-09-29 11:19
+description: Những khoảnh khắc trong trận đấu giữa Liverpool vs Arsenal
+featuredImage: /assets/liverpoolarsenal-280920-d-1601347817040.jpg
 ---
-In visual arts, a model sheet, also known as a character board, character sheet, character study or simply a study, is a document used to help standardize the appearance, poses, and gestures of a character in arts such as animation, comics, and video games.
+Arsenal gây bất ngờ khi mở tỉ số trên sân của Liverpool ở giữa hiệp một, đội chủ nhà nhanh chóng đáp trả với hai bàn thắng chỉ trong sáu phút để vươn lên dẫn ngược lại 2-1. Liverpool tạo thế trận áp đảo Arsenal hoàn toàn, đội khách đã không có những pha bóng phản công sắc lẹm để giảm tải áp lực cho phòng thủ.
 
-Model sheets are required when [multiple artists](https://example.com) are involved in the production of an animated film, game, or comic to help maintain continuity in characters from scene to scene. In animation, one animator may only do one shot out of the several hundred that are required to complete an animated feature film. A character not drawn according to the production's standardized model is referred to as off-model.
+Gần cuối trận, tân binh Jota được đưa vào sân. Cầu thủ người Bồ Đào Nha có màn ra mắt hoàn hảo với bàn thắng ấn định chiến thắng 3-1 cho Liverpool, qua đó giúp đội đương kim vô địch Premier League giữ vững thành tích toàn thắng sau ba vòng tại mùa giải 2020/21.
 
-## For one beautiful night I knew what it was like to be a grandmother. Subjugated, yet honored.
+![](/assets/liverpoolarsenal-280920-v-1601335178523.jpg)
 
-Yes! In your face, Gandhi! Ah, yes! John Quincy Adding Machine. He struck a chord with the voters when he pledged not to go on a killing spree. What are their names? I could if you hadn't turned on the light and shut off my stereo.
+Đội hình thi đấu của Liverpool không có Thiago, dường như cầu thủ người Tây Ban Nha dính chấn thương trong khi tập luyện cùng Liverpool nên không thể ra sân. Dẫu đội hình xuất phát với những gương mặt cũ, nhưng Liverpool vẫn dễ dàng tấn công áp đảo sau tiếng còi khai cuộc.
 
-1. Robot 1-X, save my friends! And Zoidberg!
-2. Soon enough.
-3. There's no part of that sentence I didn't like!
+Phút 15, Mane dứt điểm một chạm ở trung tâm vòng cấm địa, bóng đập thẳng vào người Leno bật ra trong khi thủ thành người Đức không kịp phản xạ. Phút 21, Alexander- Arnold dứt điểm từ ngoài vòng cấm địa, bóng đập chân Bellerin đổi hướng dội xà ngang khung thành Arsenal bật ra.
 
-### The key to victory is discipline, and that means a well made bed. You will practice until you can make your bed in your sleep.
+Phút 34, hàng thủ của Arsenal không phá được bóng từ cú tạt bổng ở bên phải vào của Alexander- Arnold. Robertson xâm nhập vòng cấm địa, anh đón bóng và dễ dàng hạ gục thủ thành Leno ở cự ly gần bằng một cú gảy má ngoài đưa Liverpool vượt lên dẫn trước 2-1.
 
-Why am I sticky and naked? Did I miss something fun? We're also Santa Claus! Soothe us with sweet lies. Hi, I'm a naughty nurse, and I really need someone to talk to. $9.95 a minute.
+![](/assets/liverpoolarsenal-280920-zc-1601335211603.jpg)
 
-* That could be 'my' beautiful soul sitting naked on a couch. If I could just learn to play this stupid thing.
-* We'll need to have a look inside you with this camera.
-* Fry! Quit doing the right thing, you jerk!
+**Đội hình thi đấu**
 
-Who said that? SURE you can die! You want to die?! Aww, it's true. I've been hiding it for so long. I videotape every customer that comes in here, so that I may blackmail them later. Ah, computer dating. It's like pimping, but you rarely have to use the phrase "upside your head."
+**Liverpool** (4-3-3): Alisson; Alexander-Arnold, Gomez, Van Dijk, Robertson; Fabinho, Wijnaldum, Keita (Milner, 79’); Mane (Jota, 80’), Firmino (Minamino, 91’), Salah
 
-Spare me your space age technobabble, Attila the Hun! We'll go deliver this crate like professionals, and then we'll go home. Aww, it's true. I've been hiding it for so long. Moving along… Please, Don-Bot… look into your hard drive, and open your mercy file!
+**Arsenal** (3-4-3): Leno; Holding, David Luiz, Tierney; Bellerin, Elneny, Xhaka (Ceballos, 60’), Maitland-Niles; Willian (Pepe, 68’), Lacazette (Nketiah, 73’), Aubameyang.
