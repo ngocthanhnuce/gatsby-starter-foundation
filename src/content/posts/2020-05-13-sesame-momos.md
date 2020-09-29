@@ -4,7 +4,7 @@ title: TPHCM sắp có 5 tuyến xe buýt điện nối các đầu mối giao t
 slug: /giao-thong
 date: 2020-09-29 13:38
 description: Giao thông
-featuredImage: /assets/xe-buyt-tphcm-1596719674618.jpg
+featuredImage: /assets/t3a1.gif
 ---
 Cụ thể, tuyến VB01 từ khu dân cư này đến Trung tâm thương mại Emart (cự ly 27km), tuyến VB02 đến sân bay Tân Sơn Nhất (cự ly 30km), VB03 đến bến xe buýt Sài Gòn (cự ly 29km), VB04 đến Bến xe Miền Đông (cự ly 8,5km) và VB05 đến Khu đô thị Đại học Quốc Gia (cự ly 10km).
 
