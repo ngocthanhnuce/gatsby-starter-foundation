@@ -2,10 +2,10 @@
 template: index-page
 slug: /
 title: Tin tức
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+tagline: Covid-19
+featuredImage: /assets/12018334810157884450533789168859473648340631-o-1601334214613.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Việt Nam không có ca mắc mới covid-19, Mỹ tăng nhanh trở lại số ca nhiễm
