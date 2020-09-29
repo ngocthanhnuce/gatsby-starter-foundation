@@ -1,53 +1,25 @@
 ---
 template: blog-post
-title: Desk for minimalists
-slug: /minimalists-desk
+title: "Bộ trưởng Nguyễn Chí Dũng: Việt Nam phải có tư duy vượt lên, không đi theo"
+slug: /chính-trị
 date: 2020-05-13 12:46
 description: sdasd
 featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
 ---
-Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
+## "Việt Nam nhất thiết cần có được tư duy đột phá, quyết tâm và táo bạo, dám nghĩ, dám làm; Phải có tư duy vượt lên trước chứ nhất quyết không chịu đi theo, đi sau", Bộ trưởng Dũng nhấn mạnh.
 
-That's the ONLY thing about being a slave. OK, if everyone's finished being stupid. Bender, we're trying our best. Fry! Stay back! He's too powerful! I just told you! **You've killed me!** *And yet you haven't said what I told you to say!* How can any of us trust you?
+Phát biểu tại Diễn đàn thường niên về "Cải cách và Phát triển Việt Nam 2020 với chủ đề: Việt Nam - Hành động để phục hồi tăng trưởng nhanh theo hướng bền vững và bao trùm trong bối cảnh đại dịch Covid-19" diễn ra tại Hà Nội sáng nay (29/9), Bộ trưởng Bộ KH&ĐT Nguyễn Chí Dũng nhìn nhận Việt Nam, từ một quốc gia kém phát triển, bị ảnh hưởng nặng nề bởi chiến tranh, tỷ lệ đói nghèo cao, đã vươn lên mạnh mẽ và trở thành nước thu nhập trung bình (thấp) vào năm 2010.
 
 ![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
 
-## It doesn't look so shiny to me.
-
-No! I want to live! There are still too many things I don't own! It doesn't look so shiny to me. I'm just glad my fat, ugly mama isn't alive to see this day. Soon enough. I'm sure those windmills will keep them cool.
+*Ông Nguyễn Chí Dũng, Bộ trưởng, Bộ Kế hoạch và Đầu tư tại Diễn đàn thường niên về Cải cách và Phát triển Việt Nam 2020*
 
 ![]()
 
-1. Guards! Bring me the forms I need to fill out to have her taken away!
-2. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
-3. You, a bobsleder!? That I'd like to see!
+"Quy mô nền kinh tế hiện nay đã tăng hơn 40 lần so với năm 1990. Thu nhập bình quân đầu người đã tăng từ khoảng 100 USD trước năm 1990 lên gần 2.800 USD. Chất lượng cuộc sống của nhân dân ngày càng được cải thiện rõ rệt", Bộ trưởng Bộ Kế hoạch và Đầu tư nói.
 
-### Daylight and everything.
+Tuy nhiên, theo Bộ trưởng, những thành tựu trên đang bị đe dọa bởi thách thức lớn đến từ đại dịch Covid -19. Đại dịch đã ảnh hưởng tới tất cả các ngành lĩnh vực, đặc biệt tới ngành dịch vụ, vận tải, du lịch, ăn uống, lưu trú... Nhiều doanh nghiệp đã buộc phải thu hẹp quy mô sản xuất hoặc tạm ngừng hoạt động; hàng loạt lao động bị mất, thiếu việc làm, thu nhập bị giảm sâu, gây khó khăn cho việc bảo đảm an sinh, ổn định xã hội.
 
-A true inspiration for the children. Anyone who laughs is a communist! Can I use the gun? Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo!
+Bên cạnh đó, Việt Nam vẫn đang phải đối mặt với những hạn chế, yếu kém nội tại của một nền kinh tế đang phát triển với mức thu nhập trung bình thấp, tăng trưởng phụ thuộc nhiều vào vốn, lao động giá rẻ và khu vực đầu tư nước ngoài. Do đó, trong trung và dài hạn, vượt qua bẫy thu nhập trung bình, thu hẹp khoảng cách phát triển với các quốc gia khác, giải quyết các thách thức môi trường, xây dựng nền kinh tế độc lập, tự chủ... là những nhiệm vụ lớn đặt ra cho Việt Nam.
 
-* Fry! Stay back! He's too powerful!
-* Look, last night was a mistake.
-* Please, Don-Bot… look into your hard drive, and open your mercy file!
-
-And I'm his friend Jesus. One hundred dollars. There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors! No! The cat shelter's on to me.
-
-Fry! Quit doing the right thing, you jerk! I'm sure those windmills will keep them cool. I'm Santa Claus! Leela's gonna kill me. Then we'll go with that data file!
-
-That's right, baby. I ain't your loverboy Flexo, the guy you love so much. You even love anyone pretending to be him! Bite my shiny metal ass. Tell them I hate them. Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments."
-
-That's a popular name today. Little "e", big "B"? Hey, whatcha watching? A sexy mistake. A true inspiration for the children. Shut up and get to the point!
-
-Ven ve voke up, ve had zese wodies. Oh, all right, I am. But if anything happens to me, tell them I died robbing some old man. So, how 'bout them Knicks? Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
-
-Shut up and get to the point! Take me to your leader! I can explain. It's very valuable. You guys realize you live in a sewer, right?
-
-Robot 1-X, save my friends! And Zoidberg! Oh Leela! You're the only person I could turn to; you're the only person who ever loved me. I guess because my parents keep telling me to be more ladylike. As though!
-
-I daresay that Fry has discovered the smelliest object in the known universe! Oh right. I forgot about the battle. Oh dear! She's stuck in an infinite loop, and he's an idiot! Well, that's love for you.
-
-You wouldn't. Ask anyway! Is today's hectic lifestyle making you tense and impatient? Ven ve voke up, ve had zese wodies. Doomsday device? Ah, now the ball's in Farnsworth's court!
-
-Fatal. Maybe I love you so much I love you no matter who you are pretending to be. Really?! You can see how I lived before I met you. Alright, let's mafia things up a bit. Joey, burn down the ship. Clamps, burn down the crew.
-
-Enough about your promiscuous mother, Hermes! We have bigger problems. Bender, being God isn't easy. If you do too much, people get dependent on you, and if you do nothing, they lose hope. You have to use a light touch. Like a safecracker, or a pickpocket.
+Trong ngắn hạn, Việt Nam cần nhanh chóng phục hồi tăng trưởng kinh tế, bảo đảm an sinh xã hội, tận dụng hiệu quả các cơ hội phát triển xuất hiện từ khi xảy ra đại dịch Covid -19.
